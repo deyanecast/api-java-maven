@@ -8,7 +8,8 @@ public class DataService {
         return Arrays.asList(
             new DataModel("1", "Juan", 30),
             new DataModel("2", "María", 25),
-            new DataModel("3", "Carlos", 35)
+            new DataModel("3", "Carlos", 35),
+            new DataModel("4", "Pedro", 15)
         );
     }
 }
